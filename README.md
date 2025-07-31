@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋 I am Renaud Barrau
 
-<!--
-**Renaud-Barrau/Renaud-Barrau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=git&text=false&animation=spin&fill=black&textfill=d84315&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=F9BF2F&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=raspberrypi&text=false&animation=spin&fill=black&textfill=BF4040&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=flutter&text=false&animation=spin&fill=black&textfill=0daaf0&">
+</h4>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/Renaud-Barrau">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renaud-Barrau&layout=donut&theme=radical&bg_color=0D1117&" />
+  </a>
+  <a href="https://github.com/Renaud-Barrau">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-stats.vercel.app/api?username=Renaud-Barrau&show_icons=true&theme=radical" />
+  </a>
+</p>
